@@ -370,6 +370,12 @@ display: block;
       margin-left: 30px;
       z-index: 101;
   }
+
+  .main-navbar .logo img{
+        width: 100px;
+        height: 55px;
+  }
+    
   .main-navbar .nav-list{
       position: fixed;
       width: 60%;
