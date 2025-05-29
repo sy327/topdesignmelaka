@@ -1,0 +1,211 @@
+@font-face {
+    font-family: 'Holiday Bakery Sans Demo';
+    src: url('fonts/subset-HolidayBakerySansDemo-Regular.woff2') format('woff2'),
+        url('fonts/subset-HolidayBakerySansDemo-Regular.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+    font-display: optional;
+}
+
+@font-face {
+    font-family: 'Holiday Bakery Script Demo';
+    src: url('fonts/subset-HolidayBakeryScriptDemo-Reg.woff2') format('woff2'),
+        url('fonts/subset-HolidayBakeryScriptDemo-Reg.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+    font-display: optional;
+}
+
+@font-face {
+    font-family: 'Lobster';
+    src: url('fonts/subset-Lobster-Regular.woff2') format('woff2'),
+        url('fonts/subset-Lobster-Regular.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+    font-display: optional;
+}
+
+@font-face {
+    font-family: 'Relieve Demo';
+    src: url('fonts/subset-RelieveDemo-Regular.woff2') format('woff2'),
+        url('fonts/subset-RelieveDemo-Regular.woff') format('woff');
+    font-weight: normal;
+    font-style: italic;
+    font-display: optional;
+}
+
+@font-face {
+	font-family: 'Skyscapers';
+	src: url('//2ttf.com/webfont/6IF8GLA3aiM/webfont.ttf') format('truetype');
+}
+
+@font-face {
+    font-family: 'Magilio';
+    src: url('fonts/subset-Magilio-Regular.woff2') format('woff2'),
+        url('fonts/subset-Magilio-Regular.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+    font-display: optional;
+}
+
+@font-face {
+    font-family: 'Magilio';
+    src: url('fonts/subset-Magilio-Regular.woff2') format('woff2'),
+        url('fonts/subset-Magilio-Regular.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+    font-display: optional;
+}
+
+@font-face {
+    font-family: 'Gluten Backslant';
+    src: url('fonts/subset-Gluten-Backslant.woff2') format('woff2'),
+        url('fonts/subset-Gluten-Backslant.woff') format('woff');
+    font-weight: normal;
+    font-style: italic;
+    font-display: optional;
+}
+
+@font-face {
+    font-family: 'Gluten';
+    src: url('fonts/subset-Gluten-BoldItalic.woff2') format('woff2'),
+        url('fonts/subset-Gluten-BoldItalic.woff') format('woff');
+    font-weight: bold;
+    font-style: italic;
+    font-display: optional;
+}
+
+@font-face {
+    font-family: 'Gluten b';
+    src: url('fonts/subset-Gluten-ExtraBold.woff2') format('woff2'),
+        url('fonts/subset-Gluten-ExtraBold.woff') format('woff');
+    font-weight: bold;
+    font-style: normal;
+    font-display: optional;
+}
+
+@font-face {
+    font-family: 'Gluten';
+    src: url('fonts/subset-Gluten-ExtraBoldBackslant.woff2') format('woff2'),
+        url('fonts/subset-Gluten-ExtraBoldBackslant.woff') format('woff');
+    font-weight: bold;
+    font-style: italic;
+    font-display: optional;
+}
+
+@font-face {
+    font-family: 'Gluten';
+    src: url('fonts/subset-Gluten-Bold.woff2') format('woff2'),
+        url('fonts/subset-Gluten-Bold.woff') format('woff');
+    font-weight: bold;
+    font-style: normal;
+    font-display: optional;
+}
+
+@font-face {
+    font-family: 'Gluten Bold Backslant';
+    src: url('fonts/subset-Gluten-BoldBackslant.woff2') format('woff2'),
+        url('fonts/subset-Gluten-BoldBackslant.woff') format('woff');
+    font-weight: bold;
+    font-style: italic;
+    font-display: optional;
+}
+
+@font-face {
+    font-family: 'Gluten';
+    src: url('fonts/subset-Gluten-ExtraBoldItalic.woff2') format('woff2'),
+        url('fonts/subset-Gluten-ExtraBoldItalic.woff') format('woff');
+    font-weight: bold;
+    font-style: italic;
+    font-display: optional;
+}
+
+@font-face {
+    font-family: 'Gluten';
+    src: url('fonts/subset-Gluten-Heavy.woff2') format('woff2'),
+        url('fonts/subset-Gluten-Heavy.woff') format('woff');
+    font-weight: 900;
+    font-style: normal;
+    font-display: optional;
+}
+
+@font-face {
+    font-family: 'Gluten el';
+    src: url('fonts/subset-Gluten-ExtraLight.woff2') format('woff2'),
+        url('fonts/subset-Gluten-ExtraLight.woff') format('woff');
+    font-weight: 200;
+    font-style: normal;
+    font-display: optional;
+}
+
+@font-face {
+    font-family: 'Gluten e';
+    src: url('fonts/subset-Gluten-ExtraLightItalic.woff2') format('woff2'),
+        url('fonts/subset-Gluten-ExtraLightItalic.woff') format('woff');
+    font-weight: 200;
+    font-style: italic;
+    font-display: optional;
+}
+
+@font-face {
+    font-family: 'Gluten';
+    src: url('fonts/subset-Gluten-ExtraLightBackslant.woff2') format('woff2'),
+        url('fonts/subset-Gluten-ExtraLightBackslant.woff') format('woff');
+    font-weight: 200;
+    font-style: italic;
+    font-display: optional;
+}
+
+@font-face {
+    font-family: 'Gluten b';
+    src: url('fonts/subset-Gluten-HeavyBackslant.woff2') format('woff2'),
+        url('fonts/subset-Gluten-HeavyBackslant.woff') format('woff');
+    font-weight: 900;
+    font-style: italic;
+    font-display: optional;
+}
+
+@font-face {
+    font-family: 'Nighty DEMO';
+    src: url('fonts/subset-NightyDEMO.woff2') format('woff2'),
+        url('fonts/subset-NightyDEMO.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+    font-display: optional;
+}
+
+@font-face {
+    font-family: 'Blackout';
+    src: url('fonts/subset-Blackout-Midnight.woff2') format('woff2'),
+        url('fonts/subset-Blackout-Midnight.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+    font-display: optional;
+}
+
+@font-face {
+    font-family: 'Blackout sunrise';
+    src: url('fonts/subset-Blackout-Sunrise.woff2') format('woff2'),
+        url('fonts/subset-Blackout-Sunrise.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+    font-display: optional;
+}
+
+@font-face {
+    font-family: 'Blackout two';
+    src: url('fonts/subset-Blackout-TwoAM.woff2') format('woff2'),
+        url('fonts/subset-Blackout-TwoAM.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+    font-display: optional;
+}
+
+@font-face {
+    font-family: 'Marine Elmour Bold Personal Use Only';
+    src: url('fonts/subset-MarineElmourBoldPersonalUseOnly-Bold.woff2') format('woff2'),
+        url('fonts/subset-MarineElmourBoldPersonalUseOnly-Bold.woff') format('woff');
+    font-weight: bold;
+    font-style: normal;
+    font-display: optional;
+}
