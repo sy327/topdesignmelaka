@@ -1024,6 +1024,10 @@ footer{
     .about p {
       font-size: 1rem;
     }
+
+    body, html {
+        overflow-x: hidden;
+    }
   }
 
 /* certificate */
@@ -1060,6 +1064,10 @@ footer{
       font-size: 18px;
       line-height: 1.8;
       text-align: center;
+    }
+
+    body, html {
+        overflow-x: hidden;
     }
   }
   
